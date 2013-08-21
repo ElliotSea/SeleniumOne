@@ -25,6 +25,7 @@ public class Tests {
 
     @Before
     public void setUp() throws IOException {
+        //Chrome
         service = new ChromeDriverService.Builder()
                 .usingDriverExecutable(new File("C:\\ChromeDriver\\chromedriver_win32_2.2\\chromedriver.exe"))
                 .usingAnyFreePort()
@@ -33,6 +34,9 @@ public class Tests {
         driver = new RemoteWebDriver(service.getUrl(),
                 DesiredCapabilities.chrome());
         driver.navigate().to("https://www.google.com");
+        //Firefox
+       // driver = new FirefoxDriver();
+       // driver.navigate().to("https://www.google.com");
     }
     @After
     public void tearDown(){
