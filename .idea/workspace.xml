@@ -5,12 +5,12 @@
     <ignored path="SeleniumOne.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Test1.java" changelist="93566ff5-fa8e-4d7d-90e0-eef8224b6936" time="1377095749152" ignored="false" />
-    <file path="/Dummy.txt" changelist="93566ff5-fa8e-4d7d-90e0-eef8224b6936" time="1377128517108" ignored="false" />
+    <file path="/Dummy.txt" changelist="93566ff5-fa8e-4d7d-90e0-eef8224b6936" time="1377129220697" ignored="false" />
     <file path="/pom.xml" changelist="93566ff5-fa8e-4d7d-90e0-eef8224b6936" time="1376944483431" ignored="false" />
     <file path="/SearchForKeyword.java" changelist="93566ff5-fa8e-4d7d-90e0-eef8224b6936" time="1377098241806" ignored="false" />
     <file path="/OpenLink.java" changelist="93566ff5-fa8e-4d7d-90e0-eef8224b6936" time="1377098478881" ignored="false" />
-    <file path="/Tests.java" changelist="93566ff5-fa8e-4d7d-90e0-eef8224b6936" time="1377128419707" ignored="false" />
-    <file path="/fragment.java" changelist="93566ff5-fa8e-4d7d-90e0-eef8224b6936" time="1377128517108" ignored="false" />
+    <file path="/Tests.java" changelist="93566ff5-fa8e-4d7d-90e0-eef8224b6936" time="1377129356152" ignored="false" />
+    <file path="/fragment.java" changelist="93566ff5-fa8e-4d7d-90e0-eef8224b6936" time="1377129220697" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +83,7 @@
       <file leaf-file-name="Tests.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumTests/Tests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="52" selection-start="1355" selection-end="1355" vertical-scroll-proportion="0.5642857">
+            <state line="35" column="45" selection-start="1266" selection-end="1266" vertical-scroll-proportion="0.46309525">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -629,7 +629,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumTests/Tests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="52" selection-start="1355" selection-end="1355" vertical-scroll-proportion="0.5642857">
+        <state line="35" column="45" selection-start="1266" selection-end="1266" vertical-scroll-proportion="0.46309525">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

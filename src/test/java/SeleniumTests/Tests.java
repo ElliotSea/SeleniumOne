@@ -29,11 +29,13 @@ public class Tests {
         service = new ChromeDriverService.Builder()
                 .usingDriverExecutable(new File("C:\\ChromeDriver\\chromedriver_win32_2.2\\chromedriver.exe"))
                 .usingAnyFreePort()
+                .withLogFile(new File("C:\\ChromeDriver\\chromedriver_win32_2.2\\chromedriver.log"))
                 .build();
         service.start();
         driver = new RemoteWebDriver(service.getUrl(),
                 DesiredCapabilities.chrome());
         driver.navigate().to("https://www.google.com");
+
         //Firefox
        // driver = new FirefoxDriver();
        // driver.navigate().to("https://www.google.com");
